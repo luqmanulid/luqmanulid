@@ -52,12 +52,12 @@ RESTful backend services with authentication, role management, and documentation
 
 ---
 
-## 🌱 Currently Learning
+## 🎯 Current Focus
 
-- System Design
-- CI/CD
-- Cloud Deployment
-- Performance Optimization
+- 🚀 Building scalable Full-Stack applications
+- 🤖 Workflow Automation with Python
+- 📊 KPI Dashboards & Data Visualization
+- ☁️ Cloud Deployment & DevOps
 
 ---
 

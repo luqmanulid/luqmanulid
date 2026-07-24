@@ -1,43 +1,68 @@
-## 👋 Hi, I'm Mochammad Luqmanul Hakim
+# 👋 Hi, I'm Mochammad Luqmanul Hakim
 
-I'm a Full-Stack Developer from Indonesia 🇮🇩 with experience building web applications, KPI dashboards, automation tools, and data-driven systems.
+I'm a **Full-Stack Developer** from Indonesia 🇮🇩 passionate about building scalable web applications, automation tools, and data-driven solutions.
 
-I enjoy turning complex business processes into simple, reliable, and user-friendly software.
+I enjoy transforming complex business processes into reliable, efficient, and user-friendly software.
 
-## Tech Stack
+---
 
-Laravel
-Python
-MySQL
-JavaScript
-HTML
-CSS
-Docker
-Linux
+## 💻 Tech Stack
 
-## What I'm building
+### Backend
+- Laravel
+- Python
+- REST API
+- MySQL
 
-📊 KPI Dashboard
-⚙️ Automation Tools
-📡 OSS Monitoring
-📦 ERP System
+### Frontend
+- JavaScript
+- HTML5
+- CSS3
 
-## 🚀 Featured Projects
+### Tools & Platform
+- Docker
+- Linux
+- Git
 
-📊 KPI Dashboard
-Real-time KPI monitoring with interactive charts.
+---
 
-⚙️ Python Automation
-Automating data collection and report generation.
+## 🚀 What I'm Building
 
-📦 Inventory ERP
-Inventory and sales management built with Laravel.
+- 📊 KPI Dashboard & Analytics
+- ⚙️ Business Process Automation
+- 📡 OSS Monitoring Platform
+- 📦 ERP & Inventory System
+- 🔗 RESTful APIs
 
-🔗 REST API
-Scalable backend APIs using Laravel.
+---
 
-## Let's connect
+## 📂 Featured Projects
 
-LinkedIn
-Email
-Portfolio
+### 📊 KPI Dashboard
+Interactive dashboard for monitoring network and business KPIs with real-time visualization.
+
+### ⚙️ Python Automation
+Automation scripts for data processing, report generation, and scheduled workflows.
+
+### 📦 Inventory ERP
+Inventory and sales management system built with Laravel.
+
+### 🔗 REST API
+RESTful backend services with authentication, role management, and documentation.
+
+---
+
+## 🌱 Currently Learning
+
+- System Design
+- CI/CD
+- Cloud Deployment
+- Performance Optimization
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn *https://www.linkedin.com/in/luqmanul-hakim-53737b153*
+- 🌐 Portfolio *(coming soon)*
+- 📧 Email: **luqmanul.id@gmail.com**

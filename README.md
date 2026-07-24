@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋 I'm Mochammad Luqmanul Hakim
 
-<!--
-**luqmanulid/luqmanulid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer from Indonesia 🇮🇩
 
-Here are some ideas to get you started:
+I build web applications, dashboards, automation, and backend systems using Laravel & Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Laravel
+Python
+MySQL
+JavaScript
+HTML
+CSS
+Docker
+Linux
+
+## What I'm building
+
+📊 KPI Dashboard
+⚙️ Automation Tools
+📡 OSS Monitoring
+📦 ERP System
+
+## Let's connect
+
+LinkedIn
+Email
+Portfolio
